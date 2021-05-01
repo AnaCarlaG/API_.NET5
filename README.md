@@ -1,2 +1,2 @@
 # API_.NET5
-Projeto básico de uma api básico com um crud
+Projeto básico para o estudo de arquitetura básica em API utilizando .NET 5 com alguns conceitos de injeção de dependência, middleware. 
